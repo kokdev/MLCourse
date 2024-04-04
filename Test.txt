@@ -1,1 +1,2 @@
-A simple text file to test the git functionalities.
+A simple text file to test the git functionalities.
+Added sentence.
